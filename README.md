@@ -4,7 +4,6 @@
 
 I got bored and made an NFT creator in python
 Just to be clear: I don&#39;t trust NFTs and I don&#39;t think you should buy them
-[My video about this](http://https://www.youtube.com/watch?v=2kEojGKt-pM "My video about this")
 
 #### 1. Install python
 Most systems come with python, but you can get it from [python.org](https://www.python.org/)
